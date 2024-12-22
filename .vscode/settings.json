@@ -1,0 +1,30 @@
+{
+  "files.associations": {
+    "tcp.h": "c",
+    "session.h": "c",
+    "auth.h": "c",
+    "stdio.h": "c",
+    "pthread.h": "c",
+    "socket.h": "c",
+    "article.h": "c",
+    "utils.h": "c",
+    "request.h": "c",
+    "global.h": "c",
+    "challenge.h": "c",
+    "stdlib.h": "c",
+    "unistd.h": "c",
+    "room.h": "c",
+    "string.h": "c",
+    "ipc.h": "c",
+    "game.h": "c",
+    "system_error": "c",
+    "online.h": "c",
+    "receiver.h": "c",
+    "array": "c",
+    "string_view": "c",
+    "initializer_list": "c",
+    "utility": "c",
+    "rank.h": "c",
+    "sender.h": "c"
+  }
+}
